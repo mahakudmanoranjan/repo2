@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello file5
+=======
+new line added on file5.
+>>>>>>> ced736ebd88f63b1946f0f47901d504dd1d9834d
